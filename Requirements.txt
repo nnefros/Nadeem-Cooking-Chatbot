@@ -1,0 +1,5 @@
+Requirements:
+
+Tkinter.
+Jupyter notebook preferably.
+Python version 3.9 preferably. 
